@@ -73,10 +73,10 @@ CREATE VIEW daily_hit_rate_summary AS
 ## Execution
 Print to the console:
 ```
-python3 loganalysis.py
+python3 log-analysis.py
 ```
 
 Print to a file:
 ```
-python3 loganalysis.py > output.txt
+python3 log-analysis.py > output.txt
 ```
