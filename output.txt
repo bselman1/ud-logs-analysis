@@ -1,0 +1,28 @@
+Top Articles:
+
+title	hit_count
+Candidate is jerk, alleges rival	338647
+Bears love berries, alleges bear	253801
+Bad things gone, say good people	170098
+Goats eat Google's lawn	84906
+Trouble for troubled troublemakers	84810
+Balloon goons doomed	84557
+There are a lot of bears	84504
+Media obsessed with bears	84383
+
+
+Top Authors:
+
+author_name	hit_count
+Ursula La Multa	507594
+Rudolf von Treppenwitz	423457
+Anonymous Contributor	170098
+Markoff Chaney	84557
+
+
+Days With Error Rate >= 1%
+
+log_date	hit_fail_rate
+2016-07-17	2.26268624680272595600
+
+
